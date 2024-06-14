@@ -66,3 +66,7 @@ buck-out/
 \.buckd/
 *.keystore
 !debug.keystore
+
+
+*.apk
+*.aab
